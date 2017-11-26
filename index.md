@@ -1,11 +1,11 @@
 # Bienvenue sur HE-Arc
 
-Un petit inventaire organisé des dépôts se trouvant sur GitHub.
+Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en lien avec les formations d'ingénieur dispensées par la [Haute École Arc](https://www.he-arc.ch/ingenierie).
 
 ## Développement Web
 
 - [Slides du cours](https://he-arc.github.io/slides-devweb/)
-  - [Introduction aux frameworks PHP](https://github.com/HE-Arc/php-intro-framework), le code aux slides;
+  - [Introduction aux frameworks PHP](https://github.com/HE-Arc/php-intro-framework), le code lié aux slides;
   - [Introduction à Rails](https://github.com/HE-Arc/rails-intro), le code lié aux slides;
   - [Application Démo Chain Reaction Django](https://github.com/greut/chain-reaction), 2017
   - [Application Démo Chat Laravel 5.3](https://github.com/HE-Arc/laravel-chat/), 2016
@@ -30,6 +30,8 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub.
 - [Drawbot](https://github.com/HE-Arc/drawbot), bras dessinateur (Arduino)
 - [Rapport Technique avec Markdown](https://he-arc.github.io/rapport-technique/)
 - [Thereduino](https://github.com/HE-Arc/thereduino), Theremin + Arduino
+
+---
 
 ## Projets étudiants
 
