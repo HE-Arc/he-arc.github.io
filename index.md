@@ -20,7 +20,7 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub.
 
 ## Python 3
 
-- [Livre Python](https://he-arc.github.io/livre-python/) ([dépôt](https://github.com/HE-Arc/livre-python)]
+- [Livre Python](https://he-arc.github.io/livre-python/) ([dépôt](https://github.com/HE-Arc/livre-python))
 - [Bot Discord pour Travis](https://github.com/greut/travisbot), 2017 
 - [Bot Discord pour le livre Python](https://github.com/greut/bookbot), 2017
 - [Bot Slack de vote](https://github.com/HE-Arc/votebot), 2016
@@ -72,7 +72,7 @@ _TODO_
 - [Flipero](https://github.com/HE-Arc/Flipero), vente d'articles
 - [Iolfnu](https://github.com/HE-Arc/iolfnu), un Flickr-like
 - [Location Materiel](https://github.com/HE-Arc/LocationMateriel)
-- [MeetING](https://github.com/HE-Arc/meetING), le Tinder de l'Ingénieur
+- [MeetING](https://github.com/HE-Arc/meetING), le Tinder de l'ingénieur
 - [Trip Planner](https://github.com/HE-Arc/trip_planner)
 - [YCMovies](https://github.com/HE-Arc/YCMovies_Ruby), la guerre des étoiles
 - [Finance Cloud](https://github.com/HE-Arc/Finance_Cloud)
