@@ -17,6 +17,7 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 ### Présentations
 
 - [React](https://github.com/HE-Arc/presentation-react)
+- [SVG vs Canvas](https://github.com/maeberli/canvaspresentation)
 
 ## Python 3
 
@@ -39,7 +40,15 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 
 #### 2017 (Laravel)
 
-_TODO_
+- [MHT](https://github.com/HE-Arc/MHT), exercices pour entrainer l'oreille
+- [DrunkYet](https://github.com/HE-Arc/DrunkYet), encore un verre ?
+- [OpenReview](https://github.com/HE-Arc/Open-Review), aka Debunker
+- [Persona](https://github.com/HE-Arc/Persona), matching profils [MBTI](https://fr.wikipedia.org/wiki/Myers_Briggs_Type_Indicator)
+- [Külmik](https://github.com/HE-Arc/Kulmik), gestion de frigo	
+- [Buzz](https://github.com/HE-Arc/clonebnb), location d'objets
+- [GameHub](https://github.com/HE-Arc/GameHub), critiques de jeux	
+- [SimpleTroc](https://github.com/HE-Arc/SimpleTroc), troc	
+- [Les bons deals](https://github.com/HE-Arc/LesBonsDeals), annonces
 
 #### 2017 (Python/RoR)
 
