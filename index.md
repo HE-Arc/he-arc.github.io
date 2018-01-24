@@ -5,6 +5,8 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 ## Développement Web
 
 - [Slides du cours](https://he-arc.github.io/slides-devweb/)
+  - [Django Resistance](https://github.com/HE-Arc/demo-django-resistance-app), tuto Django 2018
+  - [Rails Empire](https://github.com/HE-Arc/demo-rails-empire-app), tuto Rails 2018
   - [Introduction aux frameworks PHP](https://github.com/HE-Arc/php-intro-framework), le code lié aux slides;
   - [Introduction à Rails](https://github.com/HE-Arc/rails-intro), le code lié aux slides;
   - [Application Démo Chain Reaction Django](https://github.com/greut/chain-reaction), 2017
@@ -35,6 +37,12 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 ---
 
 ## Projets étudiants
+
+### Projets de semestre
+
+- [CFF delays PWA](https://github.com/HE-Arc/progressive-web-app), PWA with VueJS, 2018
+- [Moody Music](https://github.com/HE-Arc/MoodyMusic), Android App: detects a mood on a photo, then plays a playlist based on this mood, 2018
+- [Inventory](https://github.com/HE-Arc/Inventory-HE-Arc-Web-App), mobile client webapp for inventory, 2018
 
 ### Développement Web
 
