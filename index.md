@@ -38,7 +38,7 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 
 ## Projets étudiants
 
-### Projets de semestre
+### Projets de semestre
 
 - [CFF delays PWA](https://github.com/HE-Arc/progressive-web-app), PWA with VueJS, 2018
 - [Moody Music](https://github.com/HE-Arc/MoodyMusic), Android App: detects a mood on a photo, then plays a playlist based on this mood, 2018
