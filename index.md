@@ -50,14 +50,14 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 
 - [BeerEmpire](https://github.com/HE-Arc/Beer-Empire/), jeu pour régner par la bière
 - [Home2Share](https://github.com/HE-Arc/Home2Share), partage d'appartements
-- [My Little Calendar](https://github.com/HE-Arc/MyLittleCalendar), partage d'évenments
+- [My Little Calendar](https://github.com/HE-Arc/MyLittleCalendar), partage d'évènements
 - [BeerReviews](https://github.com/HE-Arc/BeerReviews), critiques de bières
 - [WAI](https://github.com/HE-Arc/WasteAnnotationImage), annotation d'images
 - [BlackOrWhite](https://github.com/HE-Arc/BlackOrWhite), jeu de gestion
 - [Val Evasion](https://github.com/HE-Arc/ValEvasion), agence de voyage
-- [Soshiki](https://github.com/HE-Arc/Soshiki), kanban
+- [Soshiki](https://github.com/PedroEmanuelCosta2/Soshiki), kanban
 - [Pirate War](https://github.com/HE-Arc/PirateWar),  jeu de gestion
-- [NoNameYet](https://github.com/HE-Arc/404),  
+- [StickyNotes](https://github.com/HE-Arc/StickyNotes), post-its partagés
 
 #### 2017 (Laravel)
 
