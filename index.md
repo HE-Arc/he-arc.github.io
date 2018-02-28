@@ -55,7 +55,7 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 - [WAI](https://github.com/HE-Arc/WasteAnnotationImage), annotation d'images
 - [BlackOrWhite](https://github.com/HE-Arc/BlackOrWhite), jeu de gestion
 - [Val Evasion](https://github.com/HE-Arc/ValEvasion), agence de voyage
-- [Soshiki](https://github.com/PedroEmanuelCosta2/Soshiki), kanban
+- [Soshiki](https://github.com/HE-Arc/Soshiki), kanban
 - [Pirate War](https://github.com/HE-Arc/PirateWar),  jeu de gestion
 - [StickyNotes](https://github.com/HE-Arc/StickyNotes), post-its partagés
 
