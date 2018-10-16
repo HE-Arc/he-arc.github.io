@@ -46,6 +46,19 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 
 ### Développement Web
 
+#### 2018 (Laravel)
+- [Complex-DLMA](https://github.com/HE-Arc/Complex-DLMA), application semblable à [Either.io](http://either.io/)
+- [Arc'ocktail](https://github.com/HE-Arc/Arc-ocktail), créateur de cocktails
+- [MenuFinder](https://github.com/HE-Arc/menu-finder), API REST pour trouver les menus du jour
+- [CommiCasa](https://github.com/HE-Arc/CommiCasa), inventaire des différents produits consommables de la maison
+- [r8.it](https://github.com/HE-Arc/r8.it), réseau social axé autour de l'appréciation des gens
+- [PandaMD](https://github.com/HE-Arc/PandaMD), éditeur Markdown avec exportation au format PDF
+- [ToDArc](https://github.com/HE-Arc/todarc), outil de gestion de tâches
+- [One Two GOOOO!](https://github.com/HE-Arc/oneTwoGo), jeu narratif
+- [Dream baby](https://github.com/HE-Arc/dream-baby), site de rencontres pour trouver des donneurs de sperme
+- [AH Inspector](https://github.com/HE-Arc/AHInspector), collecteur d'informations provenant de l'*Auction House* de World of Warcraft
+- [NeuchAdvisor](https://github.com/HE-Arc/NeuchAdvisor), guide local pour la ville de Neuchâtel
+
 #### 2018 (Django)
 
 - [BeerEmpire](https://github.com/HE-Arc/Beer-Empire/), jeu pour régner par la bière
