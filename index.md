@@ -40,26 +40,41 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 
 ### Projets de semestre
 
+- [Extrusion Cube WI](https://github.com/HE-Arc/Extrusion---web-interface), API for interacting with [EXtrusion](http://www.studiocorium.com/lens_portfolio/led-art-extrusion-oeuvre-mika-ventura/)
 - [CFF delays PWA](https://github.com/HE-Arc/progressive-web-app), PWA with VueJS, 2018
 - [Moody Music](https://github.com/HE-Arc/MoodyMusic), Android App: detects a mood on a photo, then plays a playlist based on this mood, 2018
 - [Inventory](https://github.com/HE-Arc/Inventory-HE-Arc-Web-App), mobile client webapp for inventory, 2018
 
 ### Développement Web
 
-#### 2018 (Laravel)
-- [Complex-DLMA](https://github.com/HE-Arc/Complex-DLMA), application semblable à [Either.io](http://either.io/)
-- [Arc'ocktail](https://github.com/HE-Arc/Arc-ocktail), créateur de cocktails
-- [MenuFinder](https://github.com/HE-Arc/menu-finder), API REST pour trouver les menus du jour
-- [CommiCasa](https://github.com/HE-Arc/CommiCasa), inventaire des différents produits consommables de la maison
-- [r8.it](https://github.com/HE-Arc/r8.it), réseau social axé autour de l'appréciation des gens
-- [PandaMD](https://github.com/HE-Arc/PandaMD), éditeur Markdown avec exportation au format PDF
-- [ToDArc](https://github.com/HE-Arc/todarc), outil de gestion de tâches
-- [One Two GOOOO!](https://github.com/HE-Arc/oneTwoGo), jeu narratif
-- [Dream baby](https://github.com/HE-Arc/dream-baby), site de rencontres pour trouver des donneurs de sperme
-- [AH Inspector](https://github.com/HE-Arc/AHInspector), collecteur d'informations provenant de l'*Auction House* de World of Warcraft
-- [NeuchAdvisor](https://github.com/HE-Arc/NeuchAdvisor), guide local pour la ville de Neuchâtel
+### 2019/20 (Laravel)
 
-#### 2018 (Django)
+### 2018/19 (Django)
+- [Synai](https://github.com/HE-Arc/Synai), Visualisation de stats Spotify [online](https://synai.srvz-webapp.he-arc.ch/)
+- [PayPixPlace](https://github.com/HE-Arc/PayPixPlace), Dessin collaboratif, free2play [online](https://paypixplace.srvz-webapp.he-arc.ch/)
+- [ListView](https://github.com/HE-Arc/ListView), Kanban partagé [online](https://listview.srvz-webapp.he-arc.ch/)
+- [MovieList](http://movielist.srvz-webapp.he-arc.ch/), Gestionnaire de liste de films [online](http://movielist.srvz-webapp.he-arc.ch/)
+- [OpenSauce](https://github.com/opensauceproject/OpenSauce), Quizz popculture multijoueurs [online](https://opensauce.srvz-webapp.he-arc.ch/)
+- [TalkAway](https://djangochat.srvz-webapp.he-arc.ch/home), Django, React, GraphQL chat [online](https://djangochat.srvz-webapp.he-arc.ch/home)
+- [Sand Wish](https://github.com/HE-Arc/Sand-wish), Liste d'envies de cadeaux [online](https://sandwish.srvz-webapp.he-arc.ch/)
+- [vs finder](https://github.com/HE-Arc/Versus-Finder/wiki), Recherche d'advesersaires pour Smash Bros [online](https://vsfinder.srvz-webapp.he-arc.ch/)
+- [R U Dumb ?](https://github.com/HE-Arc/rudumb), Quizz [online](https://rudumb.srvz-webapp.he-arc.ch/)
+- [Help Arc](https://github.com/HE-Arc/HelpArc), Plateforme d'aide aux étudiants [online](https://helparc.srvz-webapp.he-arc.ch/)
+
+#### 2018/19 (Laravel)
+- [Complex-DLMA](https://github.com/HE-Arc/Complex-DLMA), application semblable à [Either.io](http://either.io/) [online](https://complexdlma.srvz-webapp.he-arc.ch/)
+- [Arc'ocktail](https://github.com/HE-Arc/Arc-ocktail), créateur de cocktails [online](https://arcocktail.srvz-webapp.he-arc.ch/)
+- [MenuFinder](https://github.com/HE-Arc/menu-finder), API REST pour trouver les menus du jour [online](https://menufinder.srvz-webapp.he-arc.ch/)
+- [CommiCasa](https://github.com/HE-Arc/CommiCasa), inventaire des différents produits consommables de la maison [online](https://commicasa.srvz-webapp.he-arc.ch/)
+- [r8.it](https://github.com/HE-Arc/r8.it), réseau social axé autour de l'appréciation des gens [online](https://r8it.srvz-webapp.he-arc.ch/)
+- [PandaMD](https://github.com/HE-Arc/PandaMD), éditeur Markdown avec exportation au format PDF [online](https://pandamd.srvz-webapp.he-arc.ch/)
+- [ToDArc](https://github.com/HE-Arc/todarc), outil de gestion de tâches [online](https://todarc.srvz-webapp.he-arc.ch/login)
+- [One Two GOOOO!](https://github.com/HE-Arc/oneTwoGo), jeu narratif [online](https://onetwogo.srvz-webapp.he-arc.ch/)
+- [Dream Daddy](https://github.com/HE-Arc/dream-baby), site de rencontres pour trouver des donneurs de sperme [online](https://dreamdaddy.srvz-webapp.he-arc.ch/)
+- [AH Inspector](https://github.com/HE-Arc/AHInspector), collecteur d'informations provenant de l'*Auction House* de World of Warcraft [online](https://ahinspector.srvz-webapp.he-arc.ch/)
+- [NeuchAdvisor](https://github.com/HE-Arc/NeuchAdvisor), guide local pour la ville de Neuchâtel [online](https://neuchadvisor.srvz-webapp.he-arc.ch/)
+
+#### 2017/18 (Django)
 
 - [BeerEmpire](https://github.com/HE-Arc/Beer-Empire/), jeu pour régner par la bière
 - [Home2Share](https://github.com/HE-Arc/Home2Share), partage d'appartements
@@ -72,7 +87,7 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 - [Pirate War](https://github.com/HE-Arc/PirateWar),  jeu de gestion
 - [StickyNotes](https://github.com/HE-Arc/StickyNotes), post-its partagés
 
-#### 2017 (Laravel)
+#### 2017/18 (Laravel)
 
 - [MHT](https://github.com/HE-Arc/MHT), exercices pour entrainer l'oreille
 - [DrunkYet](https://github.com/HE-Arc/DrunkYet), encore un verre ?
