@@ -47,11 +47,11 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 
 ### Développement Web
 
-### 2019/20 (Laravel)
+#### 2019/20 (Laravel)
 
 ---
 
-### 2018/19 (Django)
+#### 2018/19 (Django)
 - [Synai](https://github.com/HE-Arc/Synai), Visualisation de stats Spotify [online](https://synai.srvz-webapp.he-arc.ch/)
 - [PayPixPlace](https://github.com/HE-Arc/PayPixPlace), Dessin collaboratif, free2play [online](https://paypixplace.srvz-webapp.he-arc.ch/)
 - [ListView](https://github.com/HE-Arc/ListView), Kanban partagé [online](https://listview.srvz-webapp.he-arc.ch/)
