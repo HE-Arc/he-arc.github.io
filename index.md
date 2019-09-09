@@ -40,7 +40,7 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 
 ### Projets de semestre
 
-- [Extrusion Cube WI](https://github.com/HE-Arc/Extrusion---web-interface), API for interacting with [EXtrusion](http://www.studiocorium.com/lens_portfolio/led-art-extrusion-oeuvre-mika-ventura/)
+- [Extrusion Cube WI](https://github.com/HE-Arc/Extrusion---web-interface), API for interacting with [Extrusion](http://www.studiocorium.com/lens_portfolio/led-art-extrusion-oeuvre-mika-ventura/)
 - [CFF delays PWA](https://github.com/HE-Arc/progressive-web-app), PWA with VueJS, 2018
 - [Moody Music](https://github.com/HE-Arc/MoodyMusic), Android App: detects a mood on a photo, then plays a playlist based on this mood, 2018
 - [Inventory](https://github.com/HE-Arc/Inventory-HE-Arc-Web-App), mobile client webapp for inventory, 2018
@@ -57,7 +57,7 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 - [OpenSauce](https://github.com/opensauceproject/OpenSauce), Quizz popculture multijoueurs [online](https://opensauce.srvz-webapp.he-arc.ch/)
 - [TalkAway](https://djangochat.srvz-webapp.he-arc.ch/home), Django, React, GraphQL chat [online](https://djangochat.srvz-webapp.he-arc.ch/home)
 - [Sand Wish](https://github.com/HE-Arc/Sand-wish), Liste d'envies de cadeaux [online](https://sandwish.srvz-webapp.he-arc.ch/)
-- [vs finder](https://github.com/HE-Arc/Versus-Finder/wiki), Recherche d'advesersaires pour Smash Bros [online](https://vsfinder.srvz-webapp.he-arc.ch/)
+- [vs finder](https://github.com/HE-Arc/Versus-Finder/wiki), Recherche d'advesersaires pour Smash Bros
 - [R U Dumb ?](https://github.com/HE-Arc/rudumb), Quizz [online](https://rudumb.srvz-webapp.he-arc.ch/)
 - [Help Arc](https://github.com/HE-Arc/HelpArc), Plateforme d'aide aux étudiants [online](https://helparc.srvz-webapp.he-arc.ch/)
 
