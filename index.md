@@ -30,8 +30,8 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 
 ## Autres
 
+- [Rapport Technique avec Markdown](https://he-arc.github.io/rapport-technique/) ([gitlab](https://gitlab.com/greut/rapport-technique))
 - [Drawbot](https://github.com/HE-Arc/drawbot), bras dessinateur (Arduino)
-- [Rapport Technique avec Markdown](https://he-arc.github.io/rapport-technique/)
 - [Thereduino](https://github.com/HE-Arc/thereduino), Theremin + Arduino
 
 ---
@@ -48,6 +48,8 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 ### Développement Web
 
 ### 2019/20 (Laravel)
+
+---
 
 ### 2018/19 (Django)
 - [Synai](https://github.com/HE-Arc/Synai), Visualisation de stats Spotify [online](https://synai.srvz-webapp.he-arc.ch/)
@@ -74,6 +76,8 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 - [AH Inspector](https://github.com/HE-Arc/AHInspector), collecteur d'informations provenant de l'*Auction House* de World of Warcraft [online](https://ahinspector.srvz-webapp.he-arc.ch/)
 - [NeuchAdvisor](https://github.com/HE-Arc/NeuchAdvisor), guide local pour la ville de Neuchâtel [online](https://neuchadvisor.srvz-webapp.he-arc.ch/)
 
+---
+
 #### 2017/18 (Django)
 
 - [BeerEmpire](https://github.com/HE-Arc/Beer-Empire/), jeu pour régner par la bière
@@ -98,6 +102,8 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 - [GameHub](https://github.com/HE-Arc/GameHub), critiques de jeux	
 - [SimpleTroc](https://github.com/HE-Arc/SimpleTroc), troc	
 - [Les bons deals](https://github.com/HE-Arc/LesBonsDeals), annonces
+
+---
 
 #### 2017 (Python/RoR)
 
@@ -125,6 +131,8 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 - [Whatching](https://github.com/HE-Arc/Whatching), suggestion de films
 - [Webnotes++](https://github.com/HE-Arc/webnotes), prise de notes en ligne
 - [Cadexmus2](https://github.com/HE-Arc/cadexmus2), musique avec WebAudio
+
+---
 
 #### 2016 (Ruby on Rails)
 
