@@ -46,7 +46,7 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 - [Inventory](https://github.com/HE-Arc/Inventory-HE-Arc-Web-App), mobile client webapp for inventory, 2018
 
 <details>
-<h3><summary>Projets du cours Développement Web</summary></h3>
+<summary><h3>Projets du cours Développement Web</h3></summary>
 
 #### 2019/20 (Laravel)
 
