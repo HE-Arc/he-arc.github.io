@@ -45,8 +45,11 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 - [Moody Music](https://github.com/HE-Arc/MoodyMusic), Android App: detects a mood on a photo, then plays a playlist based on this mood, 2018
 - [Inventory](https://github.com/HE-Arc/Inventory-HE-Arc-Web-App), mobile client webapp for inventory, 2018
 
-<details>
-<summary><h3>Projets du cours Développement Web</h3></summary>
+<details><summary>  
+  
+### Projets du cours Développement Web
+
+</summary>
 
 #### 2019/20 (Laravel)
 
