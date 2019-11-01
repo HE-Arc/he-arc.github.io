@@ -45,7 +45,8 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 - [Moody Music](https://github.com/HE-Arc/MoodyMusic), Android App: detects a mood on a photo, then plays a playlist based on this mood, 2018
 - [Inventory](https://github.com/HE-Arc/Inventory-HE-Arc-Web-App), mobile client webapp for inventory, 2018
 
-### Développement Web
+<details>
+<h3><summary>Projets du cours Développement Web</summary></h3>
 
 #### 2019/20 (Laravel)
 
@@ -79,7 +80,6 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 ---
 
 #### 2017/18 (Django)
-
 - [BeerEmpire](https://github.com/HE-Arc/Beer-Empire/), jeu pour régner par la bière
 - [Home2Share](https://github.com/HE-Arc/Home2Share), partage d'appartements
 - [My Little Calendar](https://github.com/HE-Arc/MyLittleCalendar), partage d'évènements
@@ -92,7 +92,6 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 - [StickyNotes](https://github.com/HE-Arc/StickyNotes), post-its partagés
 
 #### 2017/18 (Laravel)
-
 - [MHT](https://github.com/HE-Arc/MHT), exercices pour entrainer l'oreille
 - [DrunkYet](https://github.com/HE-Arc/DrunkYet), encore un verre ?
 - [OpenReview](https://github.com/HE-Arc/Open-Review), aka Debunker
@@ -106,7 +105,6 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 ---
 
 #### 2017 (Python/RoR)
-
 - [SampleCenter](https://github.com/HE-Arc/SampleCenter)
 - [ReEduc](https://github.com/HE-Arc/ReEduc), the _one-button_ app!
 - [OGame](https://github.com/HE-Arc/OGame), jeu intergalactique
@@ -120,7 +118,6 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 - [WebGaL](https://github.com/HE-Arc/WebGaL), galerie de projets WebGL
 
 #### 2016 (Laravel)
-
 - [EatApp](https://github.com/HE-Arc/EatApp), gestion de réfrigérateur
 - [Cal](https://github.com/HE-Arc/cal), agendas partagés
 - [Event Organizer](https://github.com/HE-Arc/EventOrganizer), qui amène quoi en soirée?
@@ -135,7 +132,6 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 ---
 
 #### 2016 (Ruby on Rails)
-
 - [Affinity](https://github.com/HE-Arc/Affinity), affinité de héros Dota2
 - [Flipero](https://github.com/HE-Arc/Flipero), vente d'articles
 - [Iolfnu](https://github.com/HE-Arc/iolfnu), un Flickr-like
@@ -146,7 +142,6 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 - [Finance Cloud](https://github.com/HE-Arc/Finance_Cloud)
 
 #### 2015 (Ruby on Rails)
-
 - [MusiArc](https://github.com/HE-Arc/Musiarc)
 - [League of Legends](https://github.com/HE-Arc/LoLoRoR)
 - [Social Events](https://github.com/HE-Arc/SocialEvents)
@@ -154,5 +149,5 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 - [Collection](https://github.com/HE-Arc/Collection)
 
 #### 2012
-
 - [MyFM](https://github.com/HE-Arc/MyFM), Ruby on Rails
+</details>
