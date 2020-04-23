@@ -53,6 +53,18 @@ Un petit inventaire organisé des dépôts se trouvant sur GitHub. Ils sont en l
 
 #### 2019/20 (Laravel)
 
+- [Fid'Arc](https://github.com/HE-Arc/Fid-Arc), Cartes de fidélité virtuelle
+- [Museodio](https://github.com/HE-Arc/museodio), Service web pour annoter des cartes avec de l'audio
+- [qlf](https://github.com/HE-Arc/qlf), Service web permettant la création de fiches de jeux
+- [LANker](https://github.com/HE-Arc/LANker), Site web de création et de gestion de LANs party
+- [PoorTube](https://github.com/HE-Arc/PoorTube), Plateforme de partage de vidéo
+- [SettlePlan](https://github.com/HE-Arc/SettlePlan), Application de gestion de tâches
+- [1d6](https://github.com/HE-Arc/1d6), Permet de remettre le choix de votre restaurant de midi dans les mains de l'aléatoire
+- [event'ually](https://github.com/HE-Arc/event-ually), Gestionnaire d'événement
+- [Cuisinator](https://github.com/HE-Arc/Cuisinator), Proposition de recettes en fonction des ingrédients
+- [Mood'zik](https://github.com/HE-Arc/Mood-zik), Site de microblogging autour de la musique
+- [Swiped](https://github.com/HE-Arc/SwipeD), Site web reprenant les données de l'application SwipeD
+
 ---
 
 #### 2018/19 (Django)
